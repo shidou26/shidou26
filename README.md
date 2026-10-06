@@ -1,0 +1,1 @@
+I'm currently a freshman at VNUHCM - University of Science, majoring in Computer Science. I have a strong passion for Competitive Programming, with a solid foundation in algorithms and data structures. I'm pursuing a career in the software engineering industry and looking to further develop my technical skills through practical experience.
